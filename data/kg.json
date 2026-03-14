@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {"id": 1, "name": "滚动体故障", "type": "故障模式"},
+    {"id": 2, "name": "内圈故障", "type": "故障模式"},
+    {"id": 3, "name": "外圈故障", "type": "故障模式"},
+    {"id": 4, "name": "正常", "type": "状态"},
+    {"id": 5, "name": "峭度>4", "type": "特征"},
+    {"id": 6, "name": "峰值因子>3", "type": "特征"},
+    {"id": 7, "name": "外圈故障频率", "type": "特征"},
+    {"id": 8, "name": "内圈故障频率", "type": "特征"},
+    {"id": 9, "name": "滚动体故障频率", "type": "特征"},
+    {"id": 10, "name": "润滑不足", "type": "根因"},
+    {"id": 11, "name": "安装偏心", "type": "根因"},
+    {"id": 12, "name": "过载运行", "type": "根因"},
+    {"id": 13, "name": "更换轴承", "type": "解决方案"},
+    {"id": 14, "name": "补充润滑", "type": "解决方案"},
+    {"id": 15, "name": "重新校准安装", "type": "解决方案"}
+  ],
+  "relations": [
+    {"source": 1, "target": 9, "relation": "具有特征"},
+    {"source": 1, "target": 5, "relation": "具有特征"},
+    {"source": 2, "target": 8, "relation": "具有特征"},
+    {"source": 2, "target": 6, "relation": "具有特征"},
+    {"source": 3, "target": 7, "relation": "具有特征"},
+    {"source": 3, "target": 5, "relation": "具有特征"},
+    {"source": 1, "target": 10, "relation": "由引起"},
+    {"source": 2, "target": 11, "relation": "由引起"},
+    {"source": 3, "target": 12, "relation": "由引起"},
+    {"source": 1, "target": 13, "relation": "解决方案"},
+    {"source": 2, "target": 13, "relation": "解决方案"},
+    {"source": 3, "target": 13, "relation": "解决方案"},
+    {"source": 10, "target":14, "relation": "解决方案"},
+    {"source": 11, "target":15, "relation": "解决方案"}
+  ]
+}

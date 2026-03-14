@@ -1,0 +1,7 @@
+streamlit
+pyvis
+pandas
+numpy
+scipy
+datetime
+tempfile

@@ -1,0 +1,50 @@
+[
+    {
+        "file": "97.mat",
+        "bearing_model": "SKF 6205",
+        "rpm": 1797,
+        "fault_type": "正常",
+        "abs_mean": 0.808801373117519,
+        "rms": 0.9999999999999998,
+        "peak": 3.017756976727838,
+        "kurtosis": 2.697642719026297,
+        "crest_factor": 3.017756976727839,
+        "freq_centroid": 121820.50000000003
+    },
+    {
+        "file": "105.mat",
+        "bearing_model": "SKF 6205",
+        "rpm": 1797,
+        "fault_type": "内圈故障",
+        "abs_mean": 0.746396485490213,
+        "rms": 1.0,
+        "peak": 3.3420774858425815,
+        "kurtosis": 3.9652019321658547,
+        "crest_factor": 3.3420774858425815,
+        "freq_centroid": 59662.99999999999
+    },
+    {
+        "file": "118.mat",
+        "bearing_model": "SKF 6205",
+        "rpm": 1797,
+        "fault_type": "滚珠故障",
+        "abs_mean": 0.8019610621400293,
+        "rms": 0.9999999999999999,
+        "peak": 3.0362705921050552,
+        "kurtosis": 2.824273240098061,
+        "crest_factor": 3.0362705921050557,
+        "freq_centroid": 61133.00000000001
+    },
+    {
+        "file": "130.mat",
+        "bearing_model": "SKF 6205",
+        "rpm": 1797,
+        "fault_type": "外圈故障",
+        "abs_mean": 0.6409573627823341,
+        "rms": 1.0,
+        "peak": 3.6724045678618844,
+        "kurtosis": 6.087421976393821,
+        "crest_factor": 3.6724045678618844,
+        "freq_centroid": 59409.00000000001
+    }
+]
