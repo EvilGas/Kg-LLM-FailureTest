@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2f0a41e-acdd-458c-adea-540c59272124" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3AsRYFMxit83gBTGvQxpLupjYvn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.DataLoad.executor": "Run",
+    "Python.Zhipu_LLM.executor": "Run",
+    "Python.clean_data_001.executor": "Run",
+    "Python.create_triple.executor": "Run",
+    "Python.data_clean.executor": "Run",
+    "Python.data_clean_001.executor": "Run",
+    "Python.data_process.executor": "Run",
+    "Python.data_test_001.executor": "Run",
+    "Python.down_load_data.executor": "Run",
+    "Python.download_data.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test02.executor": "Run",
+    "Python.test03.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/实验室工作/设备故障检测/project_version_2/utils"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\实验室工作\设备故障检测\project_version_2\utils" />
+      <recent name="D:\实验室工作\设备故障检测\project_version_2\data" />
+      <recent name="D:\实验室工作\设备故障检测\project\pages" />
+      <recent name="D:\实验室工作\设备故障检测\project\data\CWRU" />
+      <recent name="D:\实验室工作\设备故障检测\project\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\实验室工作\设备故障检测\project_version_2\utils" />
+      <recent name="D:\实验室工作\设备故障检测\project\data" />
+      <recent name="D:\实验室工作\设备故障检测\project\data\CWRU" />
+      <recent name="D:\实验室工作\设备故障检测\project" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f0a41e-acdd-458c-adea-540c59272124" name="Changes" comment="" />
+      <created>1773379336263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773379336263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pages/DataLoad.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
